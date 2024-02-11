@@ -119,3 +119,4 @@ The increase in sales in some regions was aligned with regional marketing campai
 
 In conclusion, the analysis of the sales data has revealed significant disparities in country and product performance. The top 10 countries are driving the majority of profits, showcasing the effectiveness of localized strategies and the potential for further market development. Conversely, the bottom 10 countries indicate critical areas for improvement, potentially requiring revised marketing tactics or operational changes. Product analysis echoed similar patterns, with certain items yielding high returns while others lag in sales, suggesting a need for product portfolio optimization. Overall, these insights are pivotal for directing focused growth initiatives and reallocating resources to maximize profitability.
 
+**Dashboard:**
