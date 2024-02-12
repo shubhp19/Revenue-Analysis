@@ -74,6 +74,8 @@ Step 5: Final Analysis and Reporting
 
 **Report Generation**: Compiled a report that summarized the findings, provided data-backed recommendations, and included visual representations from the dashboard.
 
+**DATA SET** :Revenue_Dashboard.xlsx
+
 
 
 Analysis 
